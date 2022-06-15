@@ -1,0 +1,79 @@
+Assets:
+	-3D models:
+		-Character and Items:
+			-Player;
+DONE		-RC Robot;
+			-Flash light;
+			-Gas Mask;
+			-Fume Detector;
+			-Rope;
+DONE		-Directional Lantern;
+		-Terrain:
+			-Intro terrain:
+				-Terrain;
+				-Road;
+				-Trees;
+			-Set of regular tunnels:
+DONE			-Tunnel A;
+DONE			-Tunnel B;
+DONE			-Tunnel hole up;
+DONE			-Tunnel hole down
+DONE			-Tunnel Collapsed;
+DONE			-Tunnel Squeeze;
+DONE			-Tunnel Intersection Frame;
+DONE			-Tunnel intersection 4;
+DONE			-Tunnel intersection 4 down;
+DONE			-Tunnel intersection 4 up;
+DONE			-Tunnel intersection 3;
+DONE			-Tunnel intersection forward;
+DONE			-Tunnel intersection deadend;
+DONE			-Tunnel corner
+				-Tunnel regular to polished;
+DONE			-Tunnel Shaft Top;
+DONE			-Tunnel Shaft;
+DONE			-Tunnel Shaft Bottom;
+DONE			-Tunnel Archway
+HALF			-Doorway;
+DONE			-Door;
+			-Set of larger industrial tunnels:
+DONE			-Tunnel large A;
+DONE			-Tunnel large B;
+DONE			-Tunnel large intersection 4;
+DONE			-Tunnel large intersection 3;
+DONE			-Tunnel large deadend;
+DONE			-Tunnel large slope;
+DONE			-Tunnel large corner;
+DONE			-Tunnel large to regular;
+DONE			-Tunnel large room;
+			-Set of smooth tunnels, square:
+				
+		-Scenery Decoration:
+DONE		-Box of dynamite;
+			-Some industrial mining vehicle;
+DONE		-Left over drill part;
+DONE		-Pickaxe
+			-Various small rocks (5 different at least);
+			-Poster;
+			-Hard hat;
+DONE		-Old tin can;
+			-Old alcohol bottle (2 variations);
+DONE		-Lantern;
+			-Pickup truck;
+DONE		-Mine hoist;
+		-Environment:
+DONE		-Boulders(2 different at least);
+			-Pile of small rocks;
+	----------
+	-Textures:
+DONE	-Cable/Rope;
+DONE	-WoodPlanks;
+		-CobbleStone
+		-
+		-Water
+	----------------
+	-Functionality:
+		-Door Script;
+		-Underwater Physics
+		-UI/Menu
+		-
+		
